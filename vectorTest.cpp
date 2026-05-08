@@ -1,5 +1,13 @@
+/* Shows how to use Vectors in C++. A vector is a dynamic array that can grow and shrink in size as needed. It is part of the C++ Standard Library and provides various functions to manipulate the elements stored in it. In this example, we declare a vector of integers, add some numbers to it, and then access and print those numbers.
+
+#include <vector> // INCLUDES THE VECTOR LIBRARY TO USE VECTOR FEATURES ** NEEDS to be used before using vectors in the code
+
+*/
+
+
+
 #include <iostream>
-#include <vector>
+#include <vector>  // this needs to be clarified\ added before using vectors in the code <--------------
 using namespace std;
 
 int main()
