@@ -4,10 +4,8 @@
 
 */
 
-
-
 #include <iostream>
-#include <vector>  // this needs to be clarified\ added before using vectors in the code <--------------
+#include <vector> // this needs to be clarified\ added before using vectors in the code <--------------
 using namespace std;
 
 int main()
