@@ -1,4 +1,4 @@
-/*1.14.1: Find 2D array max and min.
+/*1.14.1: Find 2D array max and min. (FINISH)
 
 Find the maximum value and minimum value in milesTracker. Assign the maximum value to maxMiles, and the minimum value to minMiles. Sample output for the given program:
 Min miles: -10
